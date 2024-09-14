@@ -1,9 +1,11 @@
 import React from "react";
 
 function SobreMim () {
-    <>
-    conteudo sobre mim
-    </>
+    return (
+        <>
+        conteudo do contato
+        </>
+        )
 }   
 
 export default SobreMim

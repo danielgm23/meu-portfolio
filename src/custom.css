@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 62,5%;
+}
+
+main{
+    background-color:#292C34;
+
+   text-align: center;
+
+   color: white;
+}
+
+main img {
+    width: 9.6rem;
+    height: 9.6rem;
+
+    border-radius: 100%;
+
+    border: 2px solid red;
+}
+
+.icons img{
+    width: 2.4rem;
+    height: 2.4rem;
+
+    border: none;
+
+    
+}
+
+
+.icons {
+    display: flex;
+
+   justify-content: center;
+
+   gap: 1.6rem;
+
+   
+}
+.icons button {
+    background-color:  #292C34;
+    border-radius: 50%;
+
+
+    color: white;
+   
+}
