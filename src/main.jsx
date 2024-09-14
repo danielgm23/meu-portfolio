@@ -2,7 +2,9 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 
 
-import Header from './templates/Header.jsx'
+import Header from './templates/header.jsx'; // Caso o arquivo tenha essa extensão.
+
+
 import Footer from './templates/footer'
 import { Button } from 'react-bootstrap'
 
